@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Applied Artificial Intelligence Group
+University of Florida, Gainesville FL
 <!--
 
 **Here are some ideas to get you started:**
