@@ -1,2 +1,1 @@
-# .github
-Applied Artificial Intelligence Group
+# Applied Artificial Intelligence Group
