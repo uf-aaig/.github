@@ -1,4 +1,4 @@
-## Applied Artificial Intelligence Group
+# Applied Artificial Intelligence Group
 University of Florida, Gainesville FL
 <!--
 
