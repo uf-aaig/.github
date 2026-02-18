@@ -1,12 +1,34 @@
-# Applied Artificial Intelligence Group
-University of Florida, Gainesville FL
-<!--
+# Applied Artificial Intelligence Group (AAIG)
 
-**Here are some ideas to get you started:**
+**Department of Electrical and Computer Engineering, University of Florida**
+Part of the [Florida Institute for National Security (FINS)](https://fins.institute.ufl.edu/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## About
+
+The Applied Artificial Intelligence Group conducts research across a broad spectrum of AI domains, developing solutions in partnership with government agencies, defense contractors, and industry collaborators. Our work supports national security efforts through cutting-edge AI technologies.
+
+## Research Areas
+
+- Adversarial AI and AI Security
+- AI-enabled Hardware Assurance and Trust
+- Explainable Artificial Intelligence (XAI)
+- Natural Language Processing (NLP)
+- Computer Vision
+- Deep Learning and Reinforcement Learning
+- Multimodal AI
+- Neuro-Symbolic AI
+- Synthetic Data Generation
+
+## Leadership
+
+- **Dr. Damon L. Woodard** -- Founder and Director
+- **Dr. Ronald Wilson** -- Co-Director, Research Assistant Professor
+
+## Links
+
+- [AAIG Website](https://aaig.ece.ufl.edu/)
+- [Florida Institute for National Security](https://fins.institute.ufl.edu/)
+- [UF Electrical and Computer Engineering](https://www.ece.ufl.edu/)
+- [Contact Us](https://aaig.ece.ufl.edu/contactuspage/)
