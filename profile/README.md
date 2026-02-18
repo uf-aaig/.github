@@ -3,8 +3,6 @@
 **Department of Electrical and Computer Engineering, University of Florida**
 Part of the [Florida Institute for National Security (FINS)](https://fins.institute.ufl.edu/)
 
----
-
 ## About
 
 The Applied Artificial Intelligence Group conducts research across a broad spectrum of AI domains, developing solutions in partnership with government agencies, defense contractors, and industry collaborators. Our work supports national security efforts through cutting-edge AI technologies.
