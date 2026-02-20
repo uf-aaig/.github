@@ -26,6 +26,11 @@ The Applied Artificial Intelligence Group conducts research across a broad spect
 - **Dr. Damon L. Woodard** -- Founder and Director
 - **Dr. Ronald Wilson** -- Co-Director, Research Assistant Professor
 
+## Getting Started
+
+- [**FINS-HelpingDoc**](https://github.com/uf-aaig/FINS-HelpingDoc) -- lab protocols and HPG commands / tutorials
+- [**template**](https://github.com/uf-aaig/template) -- template to make your own GitHub repo
+
 ## Links
 
 - [AAIG Website](https://aaig.ece.ufl.edu/)
